@@ -1,0 +1,17 @@
+body{
+  background-color:#1687a7
+}
+h1{
+  color:#d3e0ea;
+  font-size: 100px;
+}
+img{
+  background-color: #d3e0ea;
+}
+
+.broccoli{
+  background-color: green;
+}
+.bacon{
+  background-color: red;
+}
